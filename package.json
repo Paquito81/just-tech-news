@@ -1,0 +1,20 @@
+{
+  "name": "just-tech-news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start":"node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paquito81/just-tech-news.git"
+  },
+  "keywords": [],
+  "author": "Hector Palacios <paquito1981@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Paquito81/just-tech-news/issues"
+  },
+  "homepage": "https://github.com/Paquito81/just-tech-news#readme"
+}
